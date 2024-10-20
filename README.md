@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=JINY&desc=Web%20Frontend%20Developer&fontAlign=80&fontAlignY=40&color=gradient"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-ny&show_icons=true&theme=tokyonight)  <span> 　　　　</span>  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin105)](https://solved.ac/wke1wke1)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-ny&show_icons=true&theme=tokyonight) 
 ## ⛏️ 기술
 
 ✅ **Language**
